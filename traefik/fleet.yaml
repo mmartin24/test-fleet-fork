@@ -1,4 +1,4 @@
-defaultNamespace: test
+defaultNamespace: kube-system
 helm:
   releaseName: traefik
   chart: traefik
