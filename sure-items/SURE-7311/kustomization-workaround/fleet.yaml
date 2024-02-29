@@ -1,0 +1,5 @@
+defaultNamespace: test-sure-7311
+kustomize:
+  dir: overlays
+helm:
+  takeOwnership: true
