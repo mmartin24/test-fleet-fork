@@ -1,5 +1,2 @@
 defaultNamespace: my-custom-namespace
-repo: https://github.com/rancher/fleet-test-data
 deleteNamespace: true
-paths:
-- helm-verify
