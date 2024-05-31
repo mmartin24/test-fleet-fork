@@ -1,1 +1,2 @@
-targetNamespace: my-custom-namespace
+defaultNamespace: my-custom-namespace
+deleteNamespace: true
